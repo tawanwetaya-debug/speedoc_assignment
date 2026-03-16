@@ -8,14 +8,14 @@ The analysis is performed using Python with Pandas and Matplotlib in a Jupyter N
 -----------------------------------------------------------
 
 Project Structure
-LittleSteps/
-│
-├── data/
-│   └── visits.csv          # Raw dataset
-│
-├── data_analysis.ipynb     # Data cleaning and analysis notebook
-├── requirement.txt         # Required Python libraries
-└── README.md               # Project documentation
+    LittleSteps/
+    │
+    ├── data/
+    │   └── visits.csv          # Raw dataset
+    │
+    ├── data_analysis.ipynb     # Data cleaning and analysis notebook
+    ├── requirement.txt         # Required Python libraries
+    └── README.md               # Project documentation
 --------------------------------------------------------------
 
 Dataset Description
